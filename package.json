@@ -1,0 +1,20 @@
+{
+  "name": "@amosayomide05/server-speed",
+  "version": "1.0.0",
+  "description": "This module lets you get the download speed and upload speed of your server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["amosayomide05", "server-speed", "internet-speed", "speed", "downloadspeed", "download-speed", "upload-speed"],
+  "author": "Amos Ayomide (amosayomide05)",
+  "license": "MIT License",
+  "homepage": "https://github.com/amosayomide05/server-speed",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amosayomide05/server-speed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amosayomide05/server-speed/issues"
+  }
+}
