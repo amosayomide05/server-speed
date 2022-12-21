@@ -1,6 +1,6 @@
 const http = require('https');
 
-async function downloadSpeed(url) {
+async function downloadSpeed() {
 const startTime = Date.now();
 
 http.get('https://eu.httpbin.org/stream-bytes/500000', (res) => {
