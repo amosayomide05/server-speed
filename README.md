@@ -6,12 +6,12 @@ Using `npm`:
 
 	npm install @amosayomide05/server-speed
 
-### Take a screenshot
+### Get Download Speed
 
 ```js
-var nodeshot = require('@amosayomide05/server-speed');
+var serverspeed = require('@amosayomide05/server-speed');
 
-const screenshot = await downloadSpeed();
+const dl_speed = await downloadSpeed();
 ```
 
 Note that this function returns a Promise that resolves with a Buffer containing the screenshot data. You can use the Buffer class to save the screenshot to a file or manipulate the data in some other way.
